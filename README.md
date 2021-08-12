@@ -1,2 +1,2 @@
 # pics
- simple app of a earchbar and pictures
+simple app of a earchbar and pictures
